@@ -15,7 +15,7 @@
     "@react-navigation/compat": "^5.1.21",
     "@react-navigation/native": "^5.3.2",
     "@react-navigation/stack": "^5.3.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-camera-kit": "^8.0.4",
